@@ -24,7 +24,7 @@
      DB_HOST=localhost
      DB_USER=root
      DB_PASSWORD=your_mysql_root_password
-     DB_NAME=patients
+     DB_NAME=clinic_db
      ```
    - Make sure the MySQL service is running and the credentials match the user and password of your MySQL database.
 
