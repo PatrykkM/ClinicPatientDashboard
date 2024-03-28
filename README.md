@@ -35,4 +35,5 @@
    npm run dev
    ## CLIENT MUST WORK ON PORT 5173
 8. Enjoy the view :D
+
    ![App](src/assets/img/adminPanel.jpg "App")
