@@ -15,10 +15,14 @@ Welcome to the Clinic Patient Dashboard, an advanced and efficient application f
 ## Technologies
 
 [![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-gray?style=for-the-badge&logo=express)](https://expressjs.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-gray?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)](https://tailwindcss.com/)
-[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-gray?style=for-the-badge&logo=redux&logoColor=764ABC)](https://redux-toolkit.js.org/)
+
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+[![Express.js](https://img.shields.io/badge/Express.js-lightgreen?style=for-the-badge&logo=express)](https://expressjs.com/)
+
+[![MySQL](https://img.shields.io/badge/MySQL-lightorange?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 
 # How to run local app
 
