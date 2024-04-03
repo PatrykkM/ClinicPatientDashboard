@@ -4,7 +4,7 @@ Welcome to the Clinic Patient Dashboard, an advanced and efficient application f
 
 ## Highlights
 
-- 🚀 **Rapid Development**: Completed within a tight 3-day deadline, demonstrating effective time management and coding skills.
+- 🚀 **Rapid Development**: Successfully completed within a tight 3-day deadline as part of a recruitment challenge, demonstrating effective time management, coding skills, and the ability to deliver high-quality work under pressure I have decided to keep it in its original form. This decision reflects my desire to showcase the work accomplished within those three days, that point in time. Thats why I do not plan to make future changes.
 - 📚 **Valuable Learning Experience**: This project has been an incredible learning journey, enhancing my back-end skills and understanding of practical application development.
 - 📝 **Comprehensive Patient Management**: Facilitates adding, editing, and deleting patient data, enabling seamless management of patient information.
 - 🔍 **Advanced Search and Sorting**: Offers powerful search functionality, including the ability to find patients by surname, and sorting options to navigate patient data effortlessly.
