@@ -20,9 +20,9 @@ Welcome to the Clinic Patient Dashboard, an advanced and efficient application f
 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-[![Express.js](https://img.shields.io/badge/Express.js-90EE90?style=for-the-badge&logo=express)](https://expressjs.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express)](https://expressjs.com/)
 
-[![MySQL](https://img.shields.io/badge/MySQL-FFA07A?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-ADD8E6?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 
 # How to run local app
 
